@@ -1,0 +1,32 @@
+{
+  "version": "1.0",
+  "updated": "2026-10-12",
+  "games": [
+    {
+      "id": "snake",
+      "name": "Змейка",
+      "icon": "🐍",
+      "author": "PenOS Team",
+      "description": "Классическая змейка с неоновым дизайном",
+      "genre": "Arcade",
+      "version": "1.0",
+      "size": "5 KB",
+      "rating": 4.8,
+      "downloads": 1240,
+      "file": "games/snake.penapp"
+    },
+    {
+      "id": "penstrike2d",
+      "name": "PenStrike 2D",
+      "icon": "🔫",
+      "author": "PenOS Team",
+      "description": "Тир от первого лица — стреляй по врагам",
+      "genre": "Shooter",
+      "version": "1.0",
+      "size": "8 KB",
+      "rating": 4.9,
+      "downloads": 890,
+      "file": "games/penstrike2d.penapp"
+    }
+  ]
+}
